@@ -1,0 +1,3 @@
+#change-extension
+
+Usage : changeExtension(path_to_file, current_extension, new_extension);
